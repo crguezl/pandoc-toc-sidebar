@@ -7,23 +7,24 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Pandoc-toc-sidebar</a>
+      <a class="navbar-brand" href="https://crguezl.github.io/">Casiano</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="#">doc1</a></li>
-        <li><a href="#">doc2</a></li>
-        <li><a href="#">doc3</a></li>
+        <li><a href="https://github.com/ULL-ESIT-PL-2021">PL2O21</a></li>
+        <li><a href="https://github.com/ULL-MFP-AET-2122">AET2122</a></li>
+        <li><a href="https://github.com/ULL-ESIT-DMSI-1920">DMSI2122</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SYTWS2122<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
+            <li><a href="https://campusdoctoradoyposgrado2122.ull.es/mod/assign/view.php?id=32176">Campus Virtual</a></li>
+            
             <li role="separator" class="divider"></li>
-            <li class="dropdown-header">Nav header</li>
-            <li><a href="#">Separated link</a></li>
-            <li><a href="#">One more separated link</a></li>
+
+            <li class="dropdown-header">GitHub</li>
+            <li><a href="https://github.com/ULL-MII-SYTWS-2122">Org</a></li>
+            <li><a href="https://ull-mii-sytws.github.io/">Apuntes</a></li>
+
           </ul>
         </li>
       </ul>
